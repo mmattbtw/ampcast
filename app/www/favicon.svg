@@ -1,4 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24">
- <circle cx="12" cy="12" r="8" stroke-width="4" stroke="orange" fill="black"/>
- <circle cx="12" cy="12" r="2" stroke-width="none" fill="white"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"><circle cx="12" cy="12" r="8" fill="#000" stroke="orange" stroke-width="4"/><circle cx="12" cy="12" r="2" fill="#fff" stroke-width="none"/></svg>
